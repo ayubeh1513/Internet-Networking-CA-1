@@ -24,7 +24,7 @@ The office network follows a **hybrid topology model** to optimize performance a
 - The tests confirm that packets reach their destinations without loss, ensuring **network efficiency and reliability**.
 
 ## Project Files
-- **Network Diagram:** Full topology representation of the office network (see `FULL.png`).
+- **Network Diagram:** Full topology representation of the office network.
 - **Configuration Scripts:** Router and switch configurations for static routing (to be added if required).
 
 ## Future Enhancements
@@ -33,6 +33,6 @@ The office network follows a **hybrid topology model** to optimize performance a
 - Expanding to support **wireless connectivity** for additional device access.
 
 ## Contributors
-- **[Your Name]** – Network Architecture & Design
+- **Ayushman Behera** – Network Architecture & Design
 
 For any issues or contributions, feel free to open a pull request or raise an issue.
